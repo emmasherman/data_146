@@ -1,7 +1,7 @@
 # data_146
 
 ## Informal exercises 
-[Informal_Exercise_1](https://emmasherman.github.io/data_146/informalexcerise.html)
+[Exercise_1: Gapminder](informalexcerise.md)
 
 ## Projects
-[Project 1](https://emmasherman.github.io/data_146/Project1.html)
+[Project 1](Project1.md)
